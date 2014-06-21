@@ -10,4 +10,4 @@ This project helps you upload file to the qiniu pocket.
 4. The file will be get in  [http://ptmind.qiniudn.com/${fileName}]()
 
 # <element style="margin:0em 0px 12px; padding:0px; font-family:Microsoft YaHei; font-size:22px; color:rgb(32,136,178); line-height:32px">Source Code</element>
-The source code is in the folder [./code/qiniu]()
+The source code is in the folder [https://github.com/yanghaogn/qiniu/tree/master/code/qiniu]()
